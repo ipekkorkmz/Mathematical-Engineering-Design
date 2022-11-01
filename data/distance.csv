@@ -1,0 +1,45 @@
+Exp country,country_j,distance
+Turkey,China,6083.43
+Turkey,France,2803.41 
+Turkey,Germany,2332.79
+Turkey,Iceland,4433
+Turkey,Italy,1911.13
+Turkey,Netherlands,2690.54
+Turkey,Norway,2989.43
+Turkey,Spain,3401.22
+Turkey,Switzerland,2328.95
+Turkey,United Kingdom,3332.78
+Turkey,United States,10153.51
+Switzerland,China,7715.68
+Switzerland,France,484.11 
+Switzerland,Germany,502.56 
+Switzerland,Iceland,2565.7
+Switzerland,Italy,580.47 
+Switzerland,Netherlands,658.62 
+Switzerland,Norway,1524.57 
+Switzerland,Spain,1345.27 
+Switzerland,Turkey,2328.95 
+Switzerland,United Kingdom,1192.02
+Switzerland,United States,8079.84
+Iceland,China,7861.07
+Iceland,France,2372.32
+Iceland,Germany,2246.8
+Iceland,Italy,3138.62
+Iceland,Netherlands,1932.09
+Iceland,Norway,1458.72
+Iceland,Spain,2978.92
+Iceland,Switzerland,2565.7
+Iceland,Turkey,4433
+Iceland,United Kingdom,1404.37
+Iceland,United States,5721.13
+Norway,China,6978.34
+Norway,France,1614.7
+Norway,Germany,1050.29
+Norway,Iceland,1458.72 
+Norway,Italy,2000.7
+Norway,Netherlands,912.72
+Norway,Spain,2544.92
+Norway,Switzerland,1524.57
+Norway,Turkey,2989.43
+Norway,United Kingdom,976.69
+Norway,United States,7173.34
